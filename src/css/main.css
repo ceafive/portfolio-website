@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind screens;
+
+#main-page {
+    position: absolute;
+    top: 0; bottom: 0; left: 0; right: 0;
+    background-color: #001030;
+    margin: auto;
+    display: none;
+}
+
+
+#portfolio {
+    position: absolute;
+    top: 0; bottom: 0; left: 0; right: 0;
+    background-color: #C7CED3;
+    margin: auto;
+    display: none;
+}
+
+.maincontent, .portfolio-content {
+    display: none;
+}
+
+body {
+    background-repeat: repeat-y;
+}
+
+.webpage > h4 {
+  visibility: hidden;
+  opacity: 0;
+  height: 0;
+  transition: all 1s;
+}
+
+.webpage:hover > h4 {
+  visibility: visible;
+  opacity: 1;
+  height: 25%
+    
+}
+
+/*
+.content {
+  background: linear-gradient(
+    to bottom, 
+    #fff 0%, 
+    #fff 50%, 
+    #001030 50%, 
+    #001030 100%
+  );
+}
+*/
+
+
+
+.content {
+  background-image: url('/dist/img/black-background.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: scroll;
+  background-position: center;
+}
