@@ -42,23 +42,4 @@
 }
 
 /*
-.content {
-  background: linear-gradient(
-    to bottom, 
-    #fff 0%, 
-    #fff 50%, 
-    #001030 50%, 
-    #001030 100%
-  );
-}
-*/
 
-
-
-.content {
-  background-image: url('img/black-background.png');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: scroll;
-  background-position: center;
-}
