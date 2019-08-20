@@ -56,7 +56,7 @@
 
 
 .content {
-  background-image: url('/dist/img/black-background.png');
+  background-image: url('img/black-background.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: scroll;
