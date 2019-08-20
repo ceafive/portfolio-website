@@ -1080,7 +1080,7 @@ video {
 }
 
 .bg-devnavy {
-  background-color: #003572;
+  background-color: #0043FB;
 }
 
 .bg-devdarkblue {
@@ -1504,7 +1504,7 @@ video {
 }
 
 .hover\:bg-devnavy:hover {
-  background-color: #003572;
+  background-color: #0043FB;
 }
 
 .hover\:bg-devdarkblue:hover {
@@ -1928,7 +1928,7 @@ video {
 }
 
 .focus\:bg-devnavy:focus {
-  background-color: #003572;
+  background-color: #0043FB;
 }
 
 .focus\:bg-devdarkblue:focus {
@@ -2432,7 +2432,7 @@ video {
 }
 
 .border-devnavy {
-  border-color: #003572;
+  border-color: #0043FB;
 }
 
 .border-devdarkblue {
@@ -2856,7 +2856,7 @@ video {
 }
 
 .hover\:border-devnavy:hover {
-  border-color: #003572;
+  border-color: #0043FB;
 }
 
 .hover\:border-devdarkblue:hover {
@@ -3280,7 +3280,7 @@ video {
 }
 
 .focus\:border-devnavy:focus {
-  border-color: #003572;
+  border-color: #0043FB;
 }
 
 .focus\:border-devdarkblue:focus {
@@ -8150,23 +8150,23 @@ video {
 }
 
 .placeholder-devnavy::-webkit-input-placeholder {
-  color: #003572;
+  color: #0043FB;
 }
 
 .placeholder-devnavy::-moz-placeholder {
-  color: #003572;
+  color: #0043FB;
 }
 
 .placeholder-devnavy:-ms-input-placeholder {
-  color: #003572;
+  color: #0043FB;
 }
 
 .placeholder-devnavy::-ms-input-placeholder {
-  color: #003572;
+  color: #0043FB;
 }
 
 .placeholder-devnavy::placeholder {
-  color: #003572;
+  color: #0043FB;
 }
 
 .placeholder-devdarkblue::-webkit-input-placeholder {
@@ -10270,23 +10270,23 @@ video {
 }
 
 .focus\:placeholder-devnavy:focus::-webkit-input-placeholder {
-  color: #003572;
+  color: #0043FB;
 }
 
 .focus\:placeholder-devnavy:focus::-moz-placeholder {
-  color: #003572;
+  color: #0043FB;
 }
 
 .focus\:placeholder-devnavy:focus:-ms-input-placeholder {
-  color: #003572;
+  color: #0043FB;
 }
 
 .focus\:placeholder-devnavy:focus::-ms-input-placeholder {
-  color: #003572;
+  color: #0043FB;
 }
 
 .focus\:placeholder-devnavy:focus::placeholder {
-  color: #003572;
+  color: #0043FB;
 }
 
 .focus\:placeholder-devdarkblue:focus::-webkit-input-placeholder {
@@ -11093,7 +11093,7 @@ video {
 }
 
 .text-devnavy {
-  color: #003572;
+  color: #0043FB;
 }
 
 .text-devdarkblue {
@@ -11517,7 +11517,7 @@ video {
 }
 
 .hover\:text-devnavy:hover {
-  color: #003572;
+  color: #0043FB;
 }
 
 .hover\:text-devdarkblue:hover {
@@ -11941,7 +11941,7 @@ video {
 }
 
 .focus\:text-devnavy:focus {
-  color: #003572;
+  color: #0043FB;
 }
 
 .focus\:text-devdarkblue:focus {
@@ -12887,7 +12887,7 @@ video {
   }
 
   .sm\:bg-devnavy {
-    background-color: #003572;
+    background-color: #0043FB;
   }
 
   .sm\:bg-devdarkblue {
@@ -13311,7 +13311,7 @@ video {
   }
 
   .sm\:hover\:bg-devnavy:hover {
-    background-color: #003572;
+    background-color: #0043FB;
   }
 
   .sm\:hover\:bg-devdarkblue:hover {
@@ -13735,7 +13735,7 @@ video {
   }
 
   .sm\:focus\:bg-devnavy:focus {
-    background-color: #003572;
+    background-color: #0043FB;
   }
 
   .sm\:focus\:bg-devdarkblue:focus {
@@ -14239,7 +14239,7 @@ video {
   }
 
   .sm\:border-devnavy {
-    border-color: #003572;
+    border-color: #0043FB;
   }
 
   .sm\:border-devdarkblue {
@@ -14663,7 +14663,7 @@ video {
   }
 
   .sm\:hover\:border-devnavy:hover {
-    border-color: #003572;
+    border-color: #0043FB;
   }
 
   .sm\:hover\:border-devdarkblue:hover {
@@ -15087,7 +15087,7 @@ video {
   }
 
   .sm\:focus\:border-devnavy:focus {
-    border-color: #003572;
+    border-color: #0043FB;
   }
 
   .sm\:focus\:border-devdarkblue:focus {
@@ -19957,23 +19957,23 @@ video {
   }
 
   .sm\:placeholder-devnavy::-webkit-input-placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .sm\:placeholder-devnavy::-moz-placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .sm\:placeholder-devnavy:-ms-input-placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .sm\:placeholder-devnavy::-ms-input-placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .sm\:placeholder-devnavy::placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .sm\:placeholder-devdarkblue::-webkit-input-placeholder {
@@ -22077,23 +22077,23 @@ video {
   }
 
   .sm\:focus\:placeholder-devnavy:focus::-webkit-input-placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .sm\:focus\:placeholder-devnavy:focus::-moz-placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .sm\:focus\:placeholder-devnavy:focus:-ms-input-placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .sm\:focus\:placeholder-devnavy:focus::-ms-input-placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .sm\:focus\:placeholder-devnavy:focus::placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .sm\:focus\:placeholder-devdarkblue:focus::-webkit-input-placeholder {
@@ -22900,7 +22900,7 @@ video {
   }
 
   .sm\:text-devnavy {
-    color: #003572;
+    color: #0043FB;
   }
 
   .sm\:text-devdarkblue {
@@ -23324,7 +23324,7 @@ video {
   }
 
   .sm\:hover\:text-devnavy:hover {
-    color: #003572;
+    color: #0043FB;
   }
 
   .sm\:hover\:text-devdarkblue:hover {
@@ -23748,7 +23748,7 @@ video {
   }
 
   .sm\:focus\:text-devnavy:focus {
-    color: #003572;
+    color: #0043FB;
   }
 
   .sm\:focus\:text-devdarkblue:focus {
@@ -24695,7 +24695,7 @@ video {
   }
 
   .md\:bg-devnavy {
-    background-color: #003572;
+    background-color: #0043FB;
   }
 
   .md\:bg-devdarkblue {
@@ -25119,7 +25119,7 @@ video {
   }
 
   .md\:hover\:bg-devnavy:hover {
-    background-color: #003572;
+    background-color: #0043FB;
   }
 
   .md\:hover\:bg-devdarkblue:hover {
@@ -25543,7 +25543,7 @@ video {
   }
 
   .md\:focus\:bg-devnavy:focus {
-    background-color: #003572;
+    background-color: #0043FB;
   }
 
   .md\:focus\:bg-devdarkblue:focus {
@@ -26047,7 +26047,7 @@ video {
   }
 
   .md\:border-devnavy {
-    border-color: #003572;
+    border-color: #0043FB;
   }
 
   .md\:border-devdarkblue {
@@ -26471,7 +26471,7 @@ video {
   }
 
   .md\:hover\:border-devnavy:hover {
-    border-color: #003572;
+    border-color: #0043FB;
   }
 
   .md\:hover\:border-devdarkblue:hover {
@@ -26895,7 +26895,7 @@ video {
   }
 
   .md\:focus\:border-devnavy:focus {
-    border-color: #003572;
+    border-color: #0043FB;
   }
 
   .md\:focus\:border-devdarkblue:focus {
@@ -31765,23 +31765,23 @@ video {
   }
 
   .md\:placeholder-devnavy::-webkit-input-placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .md\:placeholder-devnavy::-moz-placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .md\:placeholder-devnavy:-ms-input-placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .md\:placeholder-devnavy::-ms-input-placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .md\:placeholder-devnavy::placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .md\:placeholder-devdarkblue::-webkit-input-placeholder {
@@ -33885,23 +33885,23 @@ video {
   }
 
   .md\:focus\:placeholder-devnavy:focus::-webkit-input-placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .md\:focus\:placeholder-devnavy:focus::-moz-placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .md\:focus\:placeholder-devnavy:focus:-ms-input-placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .md\:focus\:placeholder-devnavy:focus::-ms-input-placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .md\:focus\:placeholder-devnavy:focus::placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .md\:focus\:placeholder-devdarkblue:focus::-webkit-input-placeholder {
@@ -34708,7 +34708,7 @@ video {
   }
 
   .md\:text-devnavy {
-    color: #003572;
+    color: #0043FB;
   }
 
   .md\:text-devdarkblue {
@@ -35132,7 +35132,7 @@ video {
   }
 
   .md\:hover\:text-devnavy:hover {
-    color: #003572;
+    color: #0043FB;
   }
 
   .md\:hover\:text-devdarkblue:hover {
@@ -35556,7 +35556,7 @@ video {
   }
 
   .md\:focus\:text-devnavy:focus {
-    color: #003572;
+    color: #0043FB;
   }
 
   .md\:focus\:text-devdarkblue:focus {
@@ -36503,7 +36503,7 @@ video {
   }
 
   .lg\:bg-devnavy {
-    background-color: #003572;
+    background-color: #0043FB;
   }
 
   .lg\:bg-devdarkblue {
@@ -36927,7 +36927,7 @@ video {
   }
 
   .lg\:hover\:bg-devnavy:hover {
-    background-color: #003572;
+    background-color: #0043FB;
   }
 
   .lg\:hover\:bg-devdarkblue:hover {
@@ -37351,7 +37351,7 @@ video {
   }
 
   .lg\:focus\:bg-devnavy:focus {
-    background-color: #003572;
+    background-color: #0043FB;
   }
 
   .lg\:focus\:bg-devdarkblue:focus {
@@ -37855,7 +37855,7 @@ video {
   }
 
   .lg\:border-devnavy {
-    border-color: #003572;
+    border-color: #0043FB;
   }
 
   .lg\:border-devdarkblue {
@@ -38279,7 +38279,7 @@ video {
   }
 
   .lg\:hover\:border-devnavy:hover {
-    border-color: #003572;
+    border-color: #0043FB;
   }
 
   .lg\:hover\:border-devdarkblue:hover {
@@ -38703,7 +38703,7 @@ video {
   }
 
   .lg\:focus\:border-devnavy:focus {
-    border-color: #003572;
+    border-color: #0043FB;
   }
 
   .lg\:focus\:border-devdarkblue:focus {
@@ -43573,23 +43573,23 @@ video {
   }
 
   .lg\:placeholder-devnavy::-webkit-input-placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .lg\:placeholder-devnavy::-moz-placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .lg\:placeholder-devnavy:-ms-input-placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .lg\:placeholder-devnavy::-ms-input-placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .lg\:placeholder-devnavy::placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .lg\:placeholder-devdarkblue::-webkit-input-placeholder {
@@ -45693,23 +45693,23 @@ video {
   }
 
   .lg\:focus\:placeholder-devnavy:focus::-webkit-input-placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .lg\:focus\:placeholder-devnavy:focus::-moz-placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .lg\:focus\:placeholder-devnavy:focus:-ms-input-placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .lg\:focus\:placeholder-devnavy:focus::-ms-input-placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .lg\:focus\:placeholder-devnavy:focus::placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .lg\:focus\:placeholder-devdarkblue:focus::-webkit-input-placeholder {
@@ -46516,7 +46516,7 @@ video {
   }
 
   .lg\:text-devnavy {
-    color: #003572;
+    color: #0043FB;
   }
 
   .lg\:text-devdarkblue {
@@ -46940,7 +46940,7 @@ video {
   }
 
   .lg\:hover\:text-devnavy:hover {
-    color: #003572;
+    color: #0043FB;
   }
 
   .lg\:hover\:text-devdarkblue:hover {
@@ -47364,7 +47364,7 @@ video {
   }
 
   .lg\:focus\:text-devnavy:focus {
-    color: #003572;
+    color: #0043FB;
   }
 
   .lg\:focus\:text-devdarkblue:focus {
@@ -48311,7 +48311,7 @@ video {
   }
 
   .xl\:bg-devnavy {
-    background-color: #003572;
+    background-color: #0043FB;
   }
 
   .xl\:bg-devdarkblue {
@@ -48735,7 +48735,7 @@ video {
   }
 
   .xl\:hover\:bg-devnavy:hover {
-    background-color: #003572;
+    background-color: #0043FB;
   }
 
   .xl\:hover\:bg-devdarkblue:hover {
@@ -49159,7 +49159,7 @@ video {
   }
 
   .xl\:focus\:bg-devnavy:focus {
-    background-color: #003572;
+    background-color: #0043FB;
   }
 
   .xl\:focus\:bg-devdarkblue:focus {
@@ -49663,7 +49663,7 @@ video {
   }
 
   .xl\:border-devnavy {
-    border-color: #003572;
+    border-color: #0043FB;
   }
 
   .xl\:border-devdarkblue {
@@ -50087,7 +50087,7 @@ video {
   }
 
   .xl\:hover\:border-devnavy:hover {
-    border-color: #003572;
+    border-color: #0043FB;
   }
 
   .xl\:hover\:border-devdarkblue:hover {
@@ -50511,7 +50511,7 @@ video {
   }
 
   .xl\:focus\:border-devnavy:focus {
-    border-color: #003572;
+    border-color: #0043FB;
   }
 
   .xl\:focus\:border-devdarkblue:focus {
@@ -55381,23 +55381,23 @@ video {
   }
 
   .xl\:placeholder-devnavy::-webkit-input-placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .xl\:placeholder-devnavy::-moz-placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .xl\:placeholder-devnavy:-ms-input-placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .xl\:placeholder-devnavy::-ms-input-placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .xl\:placeholder-devnavy::placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .xl\:placeholder-devdarkblue::-webkit-input-placeholder {
@@ -57501,23 +57501,23 @@ video {
   }
 
   .xl\:focus\:placeholder-devnavy:focus::-webkit-input-placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .xl\:focus\:placeholder-devnavy:focus::-moz-placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .xl\:focus\:placeholder-devnavy:focus:-ms-input-placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .xl\:focus\:placeholder-devnavy:focus::-ms-input-placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .xl\:focus\:placeholder-devnavy:focus::placeholder {
-    color: #003572;
+    color: #0043FB;
   }
 
   .xl\:focus\:placeholder-devdarkblue:focus::-webkit-input-placeholder {
@@ -58324,7 +58324,7 @@ video {
   }
 
   .xl\:text-devnavy {
-    color: #003572;
+    color: #0043FB;
   }
 
   .xl\:text-devdarkblue {
@@ -58748,7 +58748,7 @@ video {
   }
 
   .xl\:hover\:text-devnavy:hover {
-    color: #003572;
+    color: #0043FB;
   }
 
   .xl\:hover\:text-devdarkblue:hover {
@@ -59172,7 +59172,7 @@ video {
   }
 
   .xl\:focus\:text-devnavy:focus {
-    color: #003572;
+    color: #0043FB;
   }
 
   .xl\:focus\:text-devdarkblue:focus {
@@ -59669,35 +59669,34 @@ video {
   }
 }
 
+/*
 #main-page {
-  position: absolute;
-  top: 0; bottom: 0; left: 0; right: 0;
-  background-color: #001030;
-  margin: auto;
-  display: none;
+    position: absolute;
+    top: 0; bottom: 0; left: 0; right: 0;
+    background-color: #001030;
+    margin: auto;
+    display: none;
 }
 
+
 #portfolio {
-  position: absolute;
-  top: 0; bottom: 0; left: 0; right: 0;
-  background-color: #C7CED3;
-  margin: auto;
-  display: none;
+    position: absolute;
+    top: 0; bottom: 0; left: 0; right: 0;
+    background-color: #C7CED3;
+    margin: auto;
+    display: none;
 }
 
 .maincontent, .portfolio-content {
-  display: none;
+    display: none;
 }
-
-body {
-  background-repeat: repeat-y;
-}
+*/
 
 .webpage > h4 {
   visibility: hidden;
   opacity: 0;
   height: 0;
-  transition: all 1s;
+  transition: all 1.5s;
 }
 
 .webpage:hover > h4 {
@@ -59706,22 +59705,4 @@ body {
   height: 25%
 }
 
-/*
-.content {
-  background: linear-gradient(
-    to bottom, 
-    #fff 0%, 
-    #fff 50%, 
-    #001030 50%, 
-    #001030 100%
-  );
-}
-*/
 
-.content {
-  background-image: url('/dist/img/black-background.png');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: scroll;
-  background-position: center;
-}
