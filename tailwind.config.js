@@ -14,7 +14,7 @@ module.exports = {
         devblack: '#00030B',
         devblue: '#028DFF',
         devblue2: '#00BEFF',
-        devnavy: '#003572',
+        devnavy: '#0043FB',
         devdarkblue: '#001030',
         devdarkblue2: '#000817',
         devgray: '#4A5765',
