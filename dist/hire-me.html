@@ -66,7 +66,7 @@
 </div>
 
 <div class="sm:w-full md:w-1/2 sm:mt-12 md:mt-0 sm:mx-6 md:mx-0">
-<form class="w-full sm:px-6 sm:mb-6">
+<form class="w-full sm:px-6 sm:mb-6" name="contact" method="POST" data-netlify="true">
     <div class="flex flex-wrap mb-6">
         <div class="w-full md:w-1/2 sm:pr-4">
             <label class="tracking-wide text-gray-700 text-xs font-bold mb-2" for="grid-first-name">
@@ -98,8 +98,11 @@
             </label>
             <textarea class="appearance-none bg-transparent border-b border-b-2 border-devdarkblue w-full text-gray-700 mr-3 py-1 leading-tight focus:outline-none" cols="50" rows="5" placeholder="" aria-label="info"></textarea>
         </div>
+        <div class="w-full sm:pr-4" data-netlify-recaptcha="true">
+            
+        </div>
     </div>
-    <button class="flex-shrink-0 bg-devblack hover:bg-devred border-devblack hover:border-devred text-sm border-4 text-white py-1 px-2" type="button">
+    <button class="flex-shrink-0 bg-devblack hover:bg-devred border-devblack hover:border-devred text-sm border-4 text-white py-1 px-2" type="submit">
     send request
     </button>
 </form>
