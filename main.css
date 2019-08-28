@@ -60072,6 +60072,10 @@ video {
 }
 */
 
+html {
+  height: 100vh;
+}
+
 .webpage > h4 {
   visibility: hidden;
   opacity: 0;
