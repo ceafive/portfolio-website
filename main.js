@@ -89,3 +89,22 @@
 //	
 //});
 //
+function puffIn() {
+    const puffIn = document.querySelector('#puffIn')
+    puffIn.classList.add('magictime', 'puffIn')
+}
+setTimeout(puffIn, 000);
+
+function foolishIn() {
+    const foolishIn = document.querySelector('#foolishIn')
+    foolishIn.classList.add('magictime', 'foolishIn')
+}
+setTimeout(foolishIn, 020);
+
+function slideRightReturn() {
+    const slideRightReturn = document.querySelector('#slideRightReturn')
+    slideRightReturn.classList.add('magictime', 'slideRightReturn')
+}
+setTimeout(slideRightReturn, 050);
+
+
