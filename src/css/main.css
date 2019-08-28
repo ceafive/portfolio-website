@@ -37,7 +37,8 @@
 .webpage:hover > h4 {
   visibility: visible;
   opacity: 1;
-  height: 25%
+  height: 25%;
+  transition: all 1.5s;
     
 }
 

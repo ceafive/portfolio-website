@@ -23,7 +23,8 @@ module.exports = {
         devred: '#ff1d5e',
         twitter: '#38A1F3',
         linkedin: '#0077B5',
-        whatsapp: '#25d366'
+        whatsapp: '#25d366',
+        skype: '#00AFF0'
       },
         borderRadius: {
             br1: '2rem',
@@ -32,6 +33,12 @@ module.exports = {
         fontSize: {
             '10xl': '10rem'
         }
+    },
+    screens: {
+      'sm': '400px',
+      'md': '768px',
+      'lg': '1024px',
+      'xl': '1280px',
     }
   },
   variants: {},

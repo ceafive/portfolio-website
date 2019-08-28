@@ -607,9 +607,9 @@ video {
   width: 100%;
 }
 
-@media (min-width: 640px) {
+@media (min-width: 400px) {
   .container {
-    max-width: 640px;
+    max-width: 400px;
   }
 }
 
@@ -1119,6 +1119,10 @@ video {
   background-color: #25d366;
 }
 
+.bg-skype {
+  background-color: #00AFF0;
+}
+
 .hover\:bg-transparent:hover {
   background-color: transparent;
 }
@@ -1543,6 +1547,10 @@ video {
   background-color: #25d366;
 }
 
+.hover\:bg-skype:hover {
+  background-color: #00AFF0;
+}
+
 .focus\:bg-transparent:focus {
   background-color: transparent;
 }
@@ -1965,6 +1973,10 @@ video {
 
 .focus\:bg-whatsapp:focus {
   background-color: #25d366;
+}
+
+.focus\:bg-skype:focus {
+  background-color: #00AFF0;
 }
 
 .bg-bottom {
@@ -2471,6 +2483,10 @@ video {
   border-color: #25d366;
 }
 
+.border-skype {
+  border-color: #00AFF0;
+}
+
 .hover\:border-transparent:hover {
   border-color: transparent;
 }
@@ -2895,6 +2911,10 @@ video {
   border-color: #25d366;
 }
 
+.hover\:border-skype:hover {
+  border-color: #00AFF0;
+}
+
 .focus\:border-transparent:focus {
   border-color: transparent;
 }
@@ -3317,6 +3337,10 @@ video {
 
 .focus\:border-whatsapp:focus {
   border-color: #25d366;
+}
+
+.focus\:border-skype:focus {
+  border-color: #00AFF0;
 }
 
 .rounded-none {
@@ -8349,6 +8373,26 @@ video {
   color: #25d366;
 }
 
+.placeholder-skype::-webkit-input-placeholder {
+  color: #00AFF0;
+}
+
+.placeholder-skype::-moz-placeholder {
+  color: #00AFF0;
+}
+
+.placeholder-skype:-ms-input-placeholder {
+  color: #00AFF0;
+}
+
+.placeholder-skype::-ms-input-placeholder {
+  color: #00AFF0;
+}
+
+.placeholder-skype::placeholder {
+  color: #00AFF0;
+}
+
 .focus\:placeholder-transparent:focus::-webkit-input-placeholder {
   color: transparent;
 }
@@ -10469,6 +10513,26 @@ video {
   color: #25d366;
 }
 
+.focus\:placeholder-skype:focus::-webkit-input-placeholder {
+  color: #00AFF0;
+}
+
+.focus\:placeholder-skype:focus::-moz-placeholder {
+  color: #00AFF0;
+}
+
+.focus\:placeholder-skype:focus:-ms-input-placeholder {
+  color: #00AFF0;
+}
+
+.focus\:placeholder-skype:focus::-ms-input-placeholder {
+  color: #00AFF0;
+}
+
+.focus\:placeholder-skype:focus::placeholder {
+  color: #00AFF0;
+}
+
 .pointer-events-none {
   pointer-events: none;
 }
@@ -11132,6 +11196,10 @@ video {
   color: #25d366;
 }
 
+.text-skype {
+  color: #00AFF0;
+}
+
 .hover\:text-transparent:hover {
   color: transparent;
 }
@@ -11556,6 +11624,10 @@ video {
   color: #25d366;
 }
 
+.hover\:text-skype:hover {
+  color: #00AFF0;
+}
+
 .focus\:text-transparent:focus {
   color: transparent;
 }
@@ -11978,6 +12050,10 @@ video {
 
 .focus\:text-whatsapp:focus {
   color: #25d366;
+}
+
+.focus\:text-skype:focus {
+  color: #00AFF0;
 }
 
 .text-xs {
@@ -12437,7 +12513,7 @@ video {
   z-index: auto;
 }
 
-@media (min-width: 640px) {
+@media (min-width: 400px) {
   .sm\:sr-only {
     position: absolute;
     width: 1px;
@@ -12926,6 +13002,10 @@ video {
     background-color: #25d366;
   }
 
+  .sm\:bg-skype {
+    background-color: #00AFF0;
+  }
+
   .sm\:hover\:bg-transparent:hover {
     background-color: transparent;
   }
@@ -13350,6 +13430,10 @@ video {
     background-color: #25d366;
   }
 
+  .sm\:hover\:bg-skype:hover {
+    background-color: #00AFF0;
+  }
+
   .sm\:focus\:bg-transparent:focus {
     background-color: transparent;
   }
@@ -13772,6 +13856,10 @@ video {
 
   .sm\:focus\:bg-whatsapp:focus {
     background-color: #25d366;
+  }
+
+  .sm\:focus\:bg-skype:focus {
+    background-color: #00AFF0;
   }
 
   .sm\:bg-bottom {
@@ -14278,6 +14366,10 @@ video {
     border-color: #25d366;
   }
 
+  .sm\:border-skype {
+    border-color: #00AFF0;
+  }
+
   .sm\:hover\:border-transparent:hover {
     border-color: transparent;
   }
@@ -14702,6 +14794,10 @@ video {
     border-color: #25d366;
   }
 
+  .sm\:hover\:border-skype:hover {
+    border-color: #00AFF0;
+  }
+
   .sm\:focus\:border-transparent:focus {
     border-color: transparent;
   }
@@ -15124,6 +15220,10 @@ video {
 
   .sm\:focus\:border-whatsapp:focus {
     border-color: #25d366;
+  }
+
+  .sm\:focus\:border-skype:focus {
+    border-color: #00AFF0;
   }
 
   .sm\:rounded-none {
@@ -20156,6 +20256,26 @@ video {
     color: #25d366;
   }
 
+  .sm\:placeholder-skype::-webkit-input-placeholder {
+    color: #00AFF0;
+  }
+
+  .sm\:placeholder-skype::-moz-placeholder {
+    color: #00AFF0;
+  }
+
+  .sm\:placeholder-skype:-ms-input-placeholder {
+    color: #00AFF0;
+  }
+
+  .sm\:placeholder-skype::-ms-input-placeholder {
+    color: #00AFF0;
+  }
+
+  .sm\:placeholder-skype::placeholder {
+    color: #00AFF0;
+  }
+
   .sm\:focus\:placeholder-transparent:focus::-webkit-input-placeholder {
     color: transparent;
   }
@@ -22276,6 +22396,26 @@ video {
     color: #25d366;
   }
 
+  .sm\:focus\:placeholder-skype:focus::-webkit-input-placeholder {
+    color: #00AFF0;
+  }
+
+  .sm\:focus\:placeholder-skype:focus::-moz-placeholder {
+    color: #00AFF0;
+  }
+
+  .sm\:focus\:placeholder-skype:focus:-ms-input-placeholder {
+    color: #00AFF0;
+  }
+
+  .sm\:focus\:placeholder-skype:focus::-ms-input-placeholder {
+    color: #00AFF0;
+  }
+
+  .sm\:focus\:placeholder-skype:focus::placeholder {
+    color: #00AFF0;
+  }
+
   .sm\:pointer-events-none {
     pointer-events: none;
   }
@@ -22939,6 +23079,10 @@ video {
     color: #25d366;
   }
 
+  .sm\:text-skype {
+    color: #00AFF0;
+  }
+
   .sm\:hover\:text-transparent:hover {
     color: transparent;
   }
@@ -23363,6 +23507,10 @@ video {
     color: #25d366;
   }
 
+  .sm\:hover\:text-skype:hover {
+    color: #00AFF0;
+  }
+
   .sm\:focus\:text-transparent:focus {
     color: transparent;
   }
@@ -23785,6 +23933,10 @@ video {
 
   .sm\:focus\:text-whatsapp:focus {
     color: #25d366;
+  }
+
+  .sm\:focus\:text-skype:focus {
+    color: #00AFF0;
   }
 
   .sm\:text-xs {
@@ -24734,6 +24886,10 @@ video {
     background-color: #25d366;
   }
 
+  .md\:bg-skype {
+    background-color: #00AFF0;
+  }
+
   .md\:hover\:bg-transparent:hover {
     background-color: transparent;
   }
@@ -25158,6 +25314,10 @@ video {
     background-color: #25d366;
   }
 
+  .md\:hover\:bg-skype:hover {
+    background-color: #00AFF0;
+  }
+
   .md\:focus\:bg-transparent:focus {
     background-color: transparent;
   }
@@ -25580,6 +25740,10 @@ video {
 
   .md\:focus\:bg-whatsapp:focus {
     background-color: #25d366;
+  }
+
+  .md\:focus\:bg-skype:focus {
+    background-color: #00AFF0;
   }
 
   .md\:bg-bottom {
@@ -26086,6 +26250,10 @@ video {
     border-color: #25d366;
   }
 
+  .md\:border-skype {
+    border-color: #00AFF0;
+  }
+
   .md\:hover\:border-transparent:hover {
     border-color: transparent;
   }
@@ -26510,6 +26678,10 @@ video {
     border-color: #25d366;
   }
 
+  .md\:hover\:border-skype:hover {
+    border-color: #00AFF0;
+  }
+
   .md\:focus\:border-transparent:focus {
     border-color: transparent;
   }
@@ -26932,6 +27104,10 @@ video {
 
   .md\:focus\:border-whatsapp:focus {
     border-color: #25d366;
+  }
+
+  .md\:focus\:border-skype:focus {
+    border-color: #00AFF0;
   }
 
   .md\:rounded-none {
@@ -31964,6 +32140,26 @@ video {
     color: #25d366;
   }
 
+  .md\:placeholder-skype::-webkit-input-placeholder {
+    color: #00AFF0;
+  }
+
+  .md\:placeholder-skype::-moz-placeholder {
+    color: #00AFF0;
+  }
+
+  .md\:placeholder-skype:-ms-input-placeholder {
+    color: #00AFF0;
+  }
+
+  .md\:placeholder-skype::-ms-input-placeholder {
+    color: #00AFF0;
+  }
+
+  .md\:placeholder-skype::placeholder {
+    color: #00AFF0;
+  }
+
   .md\:focus\:placeholder-transparent:focus::-webkit-input-placeholder {
     color: transparent;
   }
@@ -34084,6 +34280,26 @@ video {
     color: #25d366;
   }
 
+  .md\:focus\:placeholder-skype:focus::-webkit-input-placeholder {
+    color: #00AFF0;
+  }
+
+  .md\:focus\:placeholder-skype:focus::-moz-placeholder {
+    color: #00AFF0;
+  }
+
+  .md\:focus\:placeholder-skype:focus:-ms-input-placeholder {
+    color: #00AFF0;
+  }
+
+  .md\:focus\:placeholder-skype:focus::-ms-input-placeholder {
+    color: #00AFF0;
+  }
+
+  .md\:focus\:placeholder-skype:focus::placeholder {
+    color: #00AFF0;
+  }
+
   .md\:pointer-events-none {
     pointer-events: none;
   }
@@ -34747,6 +34963,10 @@ video {
     color: #25d366;
   }
 
+  .md\:text-skype {
+    color: #00AFF0;
+  }
+
   .md\:hover\:text-transparent:hover {
     color: transparent;
   }
@@ -35171,6 +35391,10 @@ video {
     color: #25d366;
   }
 
+  .md\:hover\:text-skype:hover {
+    color: #00AFF0;
+  }
+
   .md\:focus\:text-transparent:focus {
     color: transparent;
   }
@@ -35593,6 +35817,10 @@ video {
 
   .md\:focus\:text-whatsapp:focus {
     color: #25d366;
+  }
+
+  .md\:focus\:text-skype:focus {
+    color: #00AFF0;
   }
 
   .md\:text-xs {
@@ -36542,6 +36770,10 @@ video {
     background-color: #25d366;
   }
 
+  .lg\:bg-skype {
+    background-color: #00AFF0;
+  }
+
   .lg\:hover\:bg-transparent:hover {
     background-color: transparent;
   }
@@ -36966,6 +37198,10 @@ video {
     background-color: #25d366;
   }
 
+  .lg\:hover\:bg-skype:hover {
+    background-color: #00AFF0;
+  }
+
   .lg\:focus\:bg-transparent:focus {
     background-color: transparent;
   }
@@ -37388,6 +37624,10 @@ video {
 
   .lg\:focus\:bg-whatsapp:focus {
     background-color: #25d366;
+  }
+
+  .lg\:focus\:bg-skype:focus {
+    background-color: #00AFF0;
   }
 
   .lg\:bg-bottom {
@@ -37894,6 +38134,10 @@ video {
     border-color: #25d366;
   }
 
+  .lg\:border-skype {
+    border-color: #00AFF0;
+  }
+
   .lg\:hover\:border-transparent:hover {
     border-color: transparent;
   }
@@ -38318,6 +38562,10 @@ video {
     border-color: #25d366;
   }
 
+  .lg\:hover\:border-skype:hover {
+    border-color: #00AFF0;
+  }
+
   .lg\:focus\:border-transparent:focus {
     border-color: transparent;
   }
@@ -38740,6 +38988,10 @@ video {
 
   .lg\:focus\:border-whatsapp:focus {
     border-color: #25d366;
+  }
+
+  .lg\:focus\:border-skype:focus {
+    border-color: #00AFF0;
   }
 
   .lg\:rounded-none {
@@ -43772,6 +44024,26 @@ video {
     color: #25d366;
   }
 
+  .lg\:placeholder-skype::-webkit-input-placeholder {
+    color: #00AFF0;
+  }
+
+  .lg\:placeholder-skype::-moz-placeholder {
+    color: #00AFF0;
+  }
+
+  .lg\:placeholder-skype:-ms-input-placeholder {
+    color: #00AFF0;
+  }
+
+  .lg\:placeholder-skype::-ms-input-placeholder {
+    color: #00AFF0;
+  }
+
+  .lg\:placeholder-skype::placeholder {
+    color: #00AFF0;
+  }
+
   .lg\:focus\:placeholder-transparent:focus::-webkit-input-placeholder {
     color: transparent;
   }
@@ -45892,6 +46164,26 @@ video {
     color: #25d366;
   }
 
+  .lg\:focus\:placeholder-skype:focus::-webkit-input-placeholder {
+    color: #00AFF0;
+  }
+
+  .lg\:focus\:placeholder-skype:focus::-moz-placeholder {
+    color: #00AFF0;
+  }
+
+  .lg\:focus\:placeholder-skype:focus:-ms-input-placeholder {
+    color: #00AFF0;
+  }
+
+  .lg\:focus\:placeholder-skype:focus::-ms-input-placeholder {
+    color: #00AFF0;
+  }
+
+  .lg\:focus\:placeholder-skype:focus::placeholder {
+    color: #00AFF0;
+  }
+
   .lg\:pointer-events-none {
     pointer-events: none;
   }
@@ -46555,6 +46847,10 @@ video {
     color: #25d366;
   }
 
+  .lg\:text-skype {
+    color: #00AFF0;
+  }
+
   .lg\:hover\:text-transparent:hover {
     color: transparent;
   }
@@ -46979,6 +47275,10 @@ video {
     color: #25d366;
   }
 
+  .lg\:hover\:text-skype:hover {
+    color: #00AFF0;
+  }
+
   .lg\:focus\:text-transparent:focus {
     color: transparent;
   }
@@ -47401,6 +47701,10 @@ video {
 
   .lg\:focus\:text-whatsapp:focus {
     color: #25d366;
+  }
+
+  .lg\:focus\:text-skype:focus {
+    color: #00AFF0;
   }
 
   .lg\:text-xs {
@@ -48350,6 +48654,10 @@ video {
     background-color: #25d366;
   }
 
+  .xl\:bg-skype {
+    background-color: #00AFF0;
+  }
+
   .xl\:hover\:bg-transparent:hover {
     background-color: transparent;
   }
@@ -48774,6 +49082,10 @@ video {
     background-color: #25d366;
   }
 
+  .xl\:hover\:bg-skype:hover {
+    background-color: #00AFF0;
+  }
+
   .xl\:focus\:bg-transparent:focus {
     background-color: transparent;
   }
@@ -49196,6 +49508,10 @@ video {
 
   .xl\:focus\:bg-whatsapp:focus {
     background-color: #25d366;
+  }
+
+  .xl\:focus\:bg-skype:focus {
+    background-color: #00AFF0;
   }
 
   .xl\:bg-bottom {
@@ -49702,6 +50018,10 @@ video {
     border-color: #25d366;
   }
 
+  .xl\:border-skype {
+    border-color: #00AFF0;
+  }
+
   .xl\:hover\:border-transparent:hover {
     border-color: transparent;
   }
@@ -50126,6 +50446,10 @@ video {
     border-color: #25d366;
   }
 
+  .xl\:hover\:border-skype:hover {
+    border-color: #00AFF0;
+  }
+
   .xl\:focus\:border-transparent:focus {
     border-color: transparent;
   }
@@ -50548,6 +50872,10 @@ video {
 
   .xl\:focus\:border-whatsapp:focus {
     border-color: #25d366;
+  }
+
+  .xl\:focus\:border-skype:focus {
+    border-color: #00AFF0;
   }
 
   .xl\:rounded-none {
@@ -55580,6 +55908,26 @@ video {
     color: #25d366;
   }
 
+  .xl\:placeholder-skype::-webkit-input-placeholder {
+    color: #00AFF0;
+  }
+
+  .xl\:placeholder-skype::-moz-placeholder {
+    color: #00AFF0;
+  }
+
+  .xl\:placeholder-skype:-ms-input-placeholder {
+    color: #00AFF0;
+  }
+
+  .xl\:placeholder-skype::-ms-input-placeholder {
+    color: #00AFF0;
+  }
+
+  .xl\:placeholder-skype::placeholder {
+    color: #00AFF0;
+  }
+
   .xl\:focus\:placeholder-transparent:focus::-webkit-input-placeholder {
     color: transparent;
   }
@@ -57700,6 +58048,26 @@ video {
     color: #25d366;
   }
 
+  .xl\:focus\:placeholder-skype:focus::-webkit-input-placeholder {
+    color: #00AFF0;
+  }
+
+  .xl\:focus\:placeholder-skype:focus::-moz-placeholder {
+    color: #00AFF0;
+  }
+
+  .xl\:focus\:placeholder-skype:focus:-ms-input-placeholder {
+    color: #00AFF0;
+  }
+
+  .xl\:focus\:placeholder-skype:focus::-ms-input-placeholder {
+    color: #00AFF0;
+  }
+
+  .xl\:focus\:placeholder-skype:focus::placeholder {
+    color: #00AFF0;
+  }
+
   .xl\:pointer-events-none {
     pointer-events: none;
   }
@@ -58363,6 +58731,10 @@ video {
     color: #25d366;
   }
 
+  .xl\:text-skype {
+    color: #00AFF0;
+  }
+
   .xl\:hover\:text-transparent:hover {
     color: transparent;
   }
@@ -58787,6 +59159,10 @@ video {
     color: #25d366;
   }
 
+  .xl\:hover\:text-skype:hover {
+    color: #00AFF0;
+  }
+
   .xl\:focus\:text-transparent:focus {
     color: transparent;
   }
@@ -59209,6 +59585,10 @@ video {
 
   .xl\:focus\:text-whatsapp:focus {
     color: #25d366;
+  }
+
+  .xl\:focus\:text-skype:focus {
+    color: #00AFF0;
   }
 
   .xl\:text-xs {
@@ -59702,7 +60082,8 @@ video {
 .webpage:hover > h4 {
   visibility: visible;
   opacity: 1;
-  height: 25%
+  height: 25%;
+  transition: all 1.5s;
 }
 
 
