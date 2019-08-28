@@ -102,9 +102,9 @@ function foolishIn() {
 setTimeout(foolishIn, 020);
 
 function slideRightReturn() {
-    const slideRightReturn = document.querySelector('#slideRightReturn')
+    const slideRightReturn = document.querySelector('.slideRightReturn')
     slideRightReturn.classList.add('magictime', 'slideRightReturn')
 }
-setTimeout(slideRightReturn, 050);
+setTimeout(slideRightReturn, 150);
 
 
