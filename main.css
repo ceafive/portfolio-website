@@ -60076,6 +60076,10 @@ html {
   height: 100vh;
 }
 
+body {
+  height: 100%;
+}
+
 .webpage > h4 {
   visibility: hidden;
   opacity: 0;
