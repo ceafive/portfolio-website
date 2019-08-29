@@ -93,13 +93,13 @@ function puffIn() {
     const puffIn = document.querySelector('#puffIn')
     puffIn.classList.add('magictime', 'puffIn')
 }
-setTimeout(puffIn, 020);
+setTimeout(puffIn, 000);
 
 function foolishIn() {
     const foolishIn = document.querySelector('#foolishIn')
     foolishIn.classList.add('magictime', 'foolishIn')
 }
-setTimeout(foolishIn, 050);
+setTimeout(foolishIn, 200);
 
 
 function swap() {
