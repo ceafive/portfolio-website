@@ -4,7 +4,8 @@
   "description": "ceafive's portfolio website",
   "main": "app.js",
   "scripts": {
-    "build:css": "tailwind build src/css/main.css -o dist/main.css",
+    "build:css": "postcss src/css/main.css -o dist/main.css",
+    "watch": "watch \"npm run build:css\" ./src",
     "deploy": "gh-pages -d dist"
   },
   "author": "Castro Agbo",

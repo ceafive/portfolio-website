@@ -31,6 +31,7 @@ module.exports = {
             br2: '4rem'
         },
         fontSize: {
+            '8xl': '8rem',
             '10xl': '10rem'
         }
     },
