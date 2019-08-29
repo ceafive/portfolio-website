@@ -60157,19 +60157,19 @@ video {
   20% {
     opacity: 1;
     transform-origin: 0% 100%;
-    transform: scale(0.5, 0.5) rotate(180deg);
+    transform: scale(0.5, 0.5) rotate(0deg);
   }
 
   40% {
     opacity: 1;
     transform-origin: 100% 100%;
-    transform: scale(0.5, 0.5) rotate(180deg);
+    transform: scale(0.5, 0.5) rotate(0deg);
   }
 
   60% {
     opacity: 1;
     transform-origin: 0%;
-    transform: scale(0.5, 0.5) rotate(90deg);
+    transform: scale(0.5, 0.5) rotate(0deg);
   }
 
   80% {
