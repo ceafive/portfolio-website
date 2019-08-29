@@ -108,10 +108,10 @@ function tinLeftIn() {
 }
 setTimeout(tinLeftIn, 000);
 
-function swashIn() {
-    const swashIn = document.querySelector('#swashIn')
-    swashIn.classList.add('magictime', 'swashIn')
+function spaceInDown() {
+    const spaceInDown = document.querySelector('#spaceInDown')
+    spaceInDown.classList.add('magictime', 'spaceInDown')
 }
-setTimeout(swashIn, 000);
+setTimeout(spaceInDown, 000);
 
 
