@@ -95,11 +95,6 @@ function puffIn() {
 }
 setTimeout(puffIn, 000);
 
-function foolishIn() {
-    const foolishIn = document.querySelector('#foolishIn')
-    foolishIn.classList.add('magictime', 'foolishIn')
-}
-setTimeout(foolishIn, 200);
 
 
 function swap() {
