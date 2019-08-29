@@ -102,11 +102,11 @@ function foolishIn() {
 setTimeout(foolishIn, 050);
 
 
-function swashIn() {
-    const swashIn = document.querySelector('#swashIn')
-    swashIn.classList.add('magictime', 'swashIn')
+function swap() {
+    const swap = document.querySelector('#swap')
+    swap.classList.add('magictime', 'swap')
 }
-setTimeout(swashIn, 000);
+setTimeout(swap, 000);
 
 function spaceInDown() {
     const spaceInDown = document.querySelector('#spaceInDown')
