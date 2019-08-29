@@ -89,24 +89,4 @@
 //	
 //});
 //
-function puffIn() {
-    const puffIn = document.querySelector('#puffIn')
-    puffIn.classList.add('magictime', 'puffIn')
-}
-setTimeout(puffIn, 000);
-
-
-
-function swap() {
-    const swap = document.querySelector('#swap')
-    swap.classList.add('magictime', 'swap')
-}
-setTimeout(swap, 000);
-
-function spaceInDown() {
-    const spaceInDown = document.querySelector('#spaceInDown')
-    spaceInDown.classList.add('magictime', 'spaceInDown')
-}
-setTimeout(spaceInDown, 000);
-
 
