@@ -101,10 +101,17 @@ function foolishIn() {
 }
 setTimeout(foolishIn, 050);
 
-function slideRightReturn() {
-    const slideRightReturn = document.querySelector('.slideRightReturn')
-    slideRightReturn.classList.add('magictime', 'slideRightReturn')
+
+function tinLeftIn() {
+    const tinLeftIn = document.querySelector('#tinLeftIn')
+    tinLeftIn.classList.add('magictime', 'tinLeftIn')
 }
-setTimeout(slideRightReturn, 100);
+setTimeout(tinLeftIn, 000);
+
+function swashIn() {
+    const swashIn = document.querySelector('#swashIn')
+    swashIn.classList.add('magictime', 'swashIn')
+}
+setTimeout(swashIn, 000);
 
 
