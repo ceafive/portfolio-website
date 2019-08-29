@@ -106,7 +106,7 @@ function swashIn() {
     const swashIn = document.querySelector('#swashIn')
     swashIn.classList.add('magictime', 'swashIn')
 }
-setTimeout(tinLeftIn, 000);
+setTimeout(swashIn, 000);
 
 function spaceInDown() {
     const spaceInDown = document.querySelector('#spaceInDown')
