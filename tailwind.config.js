@@ -26,20 +26,17 @@ module.exports = {
         whatsapp: '#25d366',
         skype: '#00AFF0'
       },
-        borderRadius: {
-            br1: '2rem',
-            br2: '4rem'
-        },
         fontSize: {
-            '8xl': '8rem',
             '10xl': '10rem'
         }
     },
     screens: {
-      'sm': '400px',
+      'xs': '375px',
+      'sm': '640px',
       'md': '768px',
       'lg': '1024px',
       'xl': '1280px',
+      'xl2': '1630px'
     }
   },
   variants: {},

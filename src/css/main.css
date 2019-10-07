@@ -27,6 +27,7 @@
 */
 
 
+/*
 .webpage > h4 {
   visibility: hidden;
   opacity: 0;
@@ -41,3 +42,28 @@
   transition: all 1.5s;
     
 }
+*/
+
+/* DEMO-SPECIFIC STYLES */
+@responsive {
+.typewriter {
+  overflow: hidden; 
+  border-right: .15em solid #00BEFF; 
+  animation: 
+    typing 3.5s steps(30, end),
+    blink-caret .5s step-end infinite;
+}
+
+}
+
+@keyframes typing {
+  from { width: 0 }
+  to { width: 90% }
+}
+
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: #00BEFF }
+}
+

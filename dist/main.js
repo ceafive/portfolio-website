@@ -89,29 +89,4 @@
 //	
 //});
 //
-function puffIn() {
-    const puffIn = document.querySelector('#puffIn')
-    puffIn.classList.add('magictime', 'puffIn')
-}
-setTimeout(puffIn, 020);
-
-function foolishIn() {
-    const foolishIn = document.querySelector('#foolishIn')
-    foolishIn.classList.add('magictime', 'foolishIn')
-}
-setTimeout(foolishIn, 050);
-
-
-function tinLeftIn() {
-    const tinLeftIn = document.querySelector('#tinLeftIn')
-    tinLeftIn.classList.add('magictime', 'tinLeftIn')
-}
-setTimeout(tinLeftIn, 000);
-
-function swashIn() {
-    const swashIn = document.querySelector('#swashIn')
-    swashIn.classList.add('magictime', 'swashIn')
-}
-setTimeout(swashIn, 000);
-
 
