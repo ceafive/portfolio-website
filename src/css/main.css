@@ -1,0 +1,72 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind screens;
+
+/*
+#main-page {
+    position: absolute;
+    top: 0; bottom: 0; left: 0; right: 0;
+    background-color: #001030;
+    margin: auto;
+    display: none;
+}
+
+
+#portfolio {
+    position: absolute;
+    top: 0; bottom: 0; left: 0; right: 0;
+    background-color: #C7CED3;
+    margin: auto;
+    display: none;
+}
+
+.maincontent, .portfolio-content {
+    display: none;
+}
+*/
+
+/*
+.webpage > h4 {
+  visibility: hidden;
+  opacity: 0;
+  height: 0;
+  transition: all 1.5s;
+}
+
+.webpage:hover > h4 {
+  visibility: visible;
+  opacity: 1;
+  height: 25%;
+  transition: all 1.5s;
+    
+}
+*/
+
+/* DEMO-SPECIFIC STYLES */
+@responsive {
+  .typewriter {
+    overflow: hidden;
+    border-right: 0.15em solid #00beff;
+    animation: typing 3.5s steps(30, end), blink-caret 0.5s step-end infinite;
+  }
+}
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 90%;
+  }
+}
+
+@keyframes blink-caret {
+  from,
+  to {
+    border-color: transparent;
+  }
+  50% {
+    border-color: #00beff;
+  }
+}

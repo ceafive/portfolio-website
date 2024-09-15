@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="main.css" rel="stylesheet">
+  
+    <title>hire-me</title>
+</head>
+<body class='font-mono bg-devdarkblue'>
+<section>
+<div id="spaceInDown" class='xs:mx-6 xs:my-6 xl:mx-24 xl:my-12 bg-devash border border-white shadow-2xl'>
+<nav class="flex justify-between xs:px-8 xs:py-3 md:px-12">
+    <div class="flex xs:text-sm border border-devblue2">
+            <a href="./"><span class="flex items-center text-devdarkblue bg-devblue2 xs:text-sm md:text-xl h-full xs:px-2">ceafive</span></a>
+            <a href="./"><span class="flex items-center text-devblue2 bg-devdarkblue xs:text-sm md:text-xl h-full xs:px-2">_dev</span></a>
+    </div>
+    <div class="xs:flex xs:items-center">
+          <div class="xs:flex-grow flex">
+            <a href="portfolio.html" class="xs:inline-block mr-4 xs:text-sm md:text-lg text-devblue2 hover:text-black border-b-2 border-transparent hover:border-black cursor-pointer">
+              Portfolio
+            </a>
+            <a href="https://github.com/ceafive?tab=repositories" rel="noopener noreferrer" target="_blank" class="xs:inline-block mr-4 xs:text-sm md:text-lg text-devblue2 hover:text-black border-b-2 border-transparent hover:border-black">
+              GitHub
+            </a>
+          </div>
+    </div>
+</nav>
+
+<hr class="border-devblue2">
+
+
+<div>
+<h1 class="xs:text-6xl xl:text-10xl text-black text-center font-extrabold tracking-tighter">
+      hire me
+</h1>
+
+
+<div class="xs:flex xs:flex-wrap">
+<div class="xs:w-full xl:w-1/2 bg-black">
+    <div class="xs:flex xs:flex-wrap xs:py-24 xs:px-12 justify-center">
+            <div class="xs:w-full xl:w-1/2">
+                <h1 class='text-devred'>
+                    Office
+                </h1>
+                <p class='text-white'>
+                    <span>Lakeside Estate Community 8</span><br>
+                    <span>Ashaley Botwe</span><br>
+                    <span>Accra</span><br>
+                    <span>Ghana</span><br>
+                </p>
+            </div>
+             <div class="xs:w-full xl:w-1/2 text-right">
+                <h1 class='text-devred'>
+                    Contact
+                </h1>
+                <p class='text-white'>
+                    <span>+233 54-6277416</span><br>
+                    <span>ceafive@gmail.com</span>
+                </p>
+            </div>
+    </div>
+</div>
+
+<div class="xs:w-full xl:w-1/2 xs:mt-12 xs:mx-6 xl:mt-0 xl:mx-0">
+<form class="w-full xs:px-6 xs:mb-6" name="contact" method="POST" data-netlify="true">
+    <div class="flex flex-wrap mb-6">
+        <div class="w-full md:w-1/2 xs:pr-4">
+            <label class="tracking-wide text-gray-700 text-sm font-bold mb-2" for="grid-first-name">
+        your name
+            </label>
+            <input class="appearance-none bg-transparent border-b border-b-2 border-devdarkblue w-full text-gray-700 py-1 leading-tight focus:outline-none" name="name" type="text" placeholder="" aria-label="your name" required>
+        </div>
+        <div class="w-full md:w-1/2 xs:pr-4">
+            <label class="tracking-wide text-gray-700 text-sm font-bold mb-2" for="grid-company-name">
+        company name
+            </label>
+            <input class="appearance-none bg-transparent border-b border-b-2 border-devdarkblue w-full text-gray-700 mr-3 py-1 leading-tight focus:outline-none" name="company_name" type="text" placeholder="" aria-label="Full name">
+        </div>
+        <div class="w-full md:w-1/2 xs:pr-4">
+            <label class="tracking-wide text-gray-700 text-sm font-bold mb-2" for="grid-email">
+        email
+            </label>
+            <input class="appearance-none bg-transparent border-b border-b-2 border-devdarkblue w-full text-gray-700 mr-3 py-1 leading-tight focus:outline-none" name="email" type="email" placeholder="" aria-label="email" required>
+        </div>
+        <div class="w-full md:w-1/2 xs:pr-4">
+            <label class="tracking-wide text-gray-700 text-sm font-bold mb-2" for="grid-contact-number">
+        contact number
+            </label>
+            <input class="appearance-none bg-transparent border-b border-b-2 border-devdarkblue w-full text-gray-700 mr-3 py-1 leading-tight focus:outline-none" name="number" type="tel" placeholder="" aria-label="contact number" required>
+        </div>
+        <div class="w-full xs:pr-4">
+            <label class="tracking-wide text-gray-700 text-sm font-bold mb-2" for="grid-first-name">
+        we would love to hear about your project
+            </label>
+            <textarea class="appearance-none bg-transparent border-b border-b-2 border-devdarkblue w-full text-gray-700 mr-3 py-1 leading-tight focus:outline-none" cols="50" rows="5" name="message" placeholder="" aria-label="info"></textarea>
+        </div>
+        <div class="w-full xs:pr-4" data-netlify-recaptcha="true">
+            
+        </div>
+    </div>
+    <button class="flex-shrink-0 bg-devblack hover:bg-devred border-devblack hover:border-devred text-sm border-4 text-white py-1 px-2" type="submit">
+    send request
+    </button>
+</form>  
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-146406888-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-146406888-1');
+</script>
+<script src="main.js"></script>       
+</body>
+</html>
