@@ -845,6 +845,37 @@ video {
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
+@keyframes typingXL2 {
+  from {
+    width: 0;
+  }
+
+  to {
+    width: 70%;
+  }
+}
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+
+  to {
+    width: 90%;
+  }
+}
+
+@keyframes blink-caret {
+  from,
+    to {
+    border-color: transparent;
+  }
+
+  50% {
+    border-color: #00beff;
+  }
+}
+
 .hover\:border-black:hover {
   --tw-border-opacity: 1;
   border-color: rgb(0 0 0 / var(--tw-border-opacity));
@@ -1135,10 +1166,23 @@ video {
     font-size: 10rem;
   }
 
+  @media (min-width: 1630px) {
+    .xl\:typewriter {
+      animation: typingXL2 3.5s steps(30, end),
+        blink-caret 0.5s step-end infinite;
+    }
+  }
+
   .xl\:typewriter {
     overflow: hidden;
     border-right: 0.15em solid #00beff;
     animation: typing 3.5s steps(30, end), blink-caret 0.5s step-end infinite;
+  }
+}
+
+@media (min-width: 1630px) {
+  .xl2\:w-\[70\%\] {
+    width: 70%;
   }
 }
 
@@ -1183,24 +1227,3 @@ video {
 */
 
 /* DEMO-SPECIFIC STYLES */
-
-@keyframes typing {
-  from {
-    width: 0;
-  }
-
-  to {
-    width: 90%;
-  }
-}
-
-@keyframes blink-caret {
-  from,
-  to {
-    border-color: transparent;
-  }
-
-  50% {
-    border-color: #00beff;
-  }
-}
