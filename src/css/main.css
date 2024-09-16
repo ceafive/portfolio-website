@@ -26,7 +26,6 @@
 }
 */
 
-
 /*
 .webpage > h4 {
   visibility: hidden;
@@ -45,25 +44,29 @@
 */
 
 /* DEMO-SPECIFIC STYLES */
-@responsive {
-.typewriter {
-  overflow: hidden; 
-  border-right: .15em solid #00BEFF; 
-  animation: 
-    typing 3.5s steps(30, end),
-    blink-caret .5s step-end infinite;
-}
-
+@layer utilities {
+  .typewriter {
+    overflow: hidden;
+    border-right: 0.15em solid #00beff;
+    animation: typing 3.5s steps(30, end), blink-caret 0.5s step-end infinite;
+  }
 }
 
 @keyframes typing {
-  from { width: 0 }
-  to { width: 90% }
+  from {
+    width: 0;
+  }
+  to {
+    width: 90%;
+  }
 }
-
 
 @keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: #00BEFF }
+  from,
+  to {
+    border-color: transparent;
+  }
+  50% {
+    border-color: #00beff;
+  }
 }
-
