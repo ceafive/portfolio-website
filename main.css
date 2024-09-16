@@ -1118,35 +1118,27 @@ video {
     width: 25%;
   }
 
+  .xl\:whitespace-nowrap {
+    white-space: nowrap;
+  }
+
   .xl\:py-24 {
     padding-top: 6rem;
     padding-bottom: 6rem;
   }
 
-  .xl\:text-10xl {
-    font-size: 10rem;
-  }
-}
-
-@media (min-width: 1630px) {
-  .xl2\:mr-32 {
-    margin-right: 8rem;
-  }
-
-  .xl2\:hidden {
-    display: none;
-  }
-
-  .xl2\:pr-24 {
+  .xl\:pr-24 {
     padding-right: 6rem;
   }
 
-  .xl2\:typewriter {
+  .xl\:text-10xl {
+    font-size: 10rem;
+  }
+
+  .xl\:typewriter {
     overflow: hidden;
-    border-right: .15em solid #00BEFF;
-    animation: 
-    typing 3.5s steps(30, end),
-    blink-caret .5s step-end infinite;
+    border-right: 0.15em solid #00beff;
+    animation: typing 3.5s steps(30, end), blink-caret 0.5s step-end infinite;
   }
 }
 
@@ -1194,21 +1186,21 @@ video {
 
 @keyframes typing {
   from {
-    width: 0
+    width: 0;
   }
 
   to {
-    width: 90%
+    width: 90%;
   }
 }
 
 @keyframes blink-caret {
-  from, to {
-    border-color: transparent
+  from,
+  to {
+    border-color: transparent;
   }
 
   50% {
-    border-color: #00BEFF
+    border-color: #00beff;
   }
 }
-
