@@ -15,7 +15,7 @@
     "tailwindcss": "^3.4.11"
   },
   "dependencies": {
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^6.1.1",
     "watch": "^1.0.2"
   }
 }
